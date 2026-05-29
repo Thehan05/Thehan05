@@ -58,10 +58,3 @@
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thehan05&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Thehan05&layout=compact&theme=radical&hide_border=true)
-
-</div>
