@@ -8,6 +8,12 @@
 
 ---
 
+## 👋 About
+
+BSc Computer Science student at UCD. I like building things close to the metal and figuring out how the well-known tools actually work under the hood. Recently spent a lot of time on network programming, systems C on Windows, and small security tooling.
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -24,6 +30,13 @@
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Winsock](https://img.shields.io/badge/Winsock-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC%20%2F%20MinGW-%23575757.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![Make](https://img.shields.io/badge/GNU%20Make-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23214478.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
@@ -45,16 +58,18 @@
 
 ---
 
+
 ## 📋 Skills Breakdown
 
 | Area | Tools & Technologies |
 |---|---|
 | **Languages** | Java, C, JavaScript, SQL, HTML, CSS |
+| **Systems & Networking** | Winsock, TCP/IP, ICMP, non-blocking I/O with `select()`, socket programming |
+| **Security / Recon** | Network reconnaissance, port scanning, banner grabbing, CVE lookup, Nmap, Wireshark, Kali Linux |
 | **Game Development** | libGDX, Gradle, desktop game architecture |
 | **Data & Backend** | MongoDB, REST APIs, SQL databases |
 | **Browser Extensions** | Chrome Extensions, Manifest V3, content scripts, DOM APIs |
 | **Core CS** | Algorithms, data structures, OOP, testing, benchmarking |
-| **Workflow** | Git, Linux, Maven, Gradle |
+| **Workflow** | Git, Linux, MSYS2/MinGW-w64, GNU Make, Maven, Gradle |
 
 ---
-
